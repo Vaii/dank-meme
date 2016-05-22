@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2015\Projects\KillerApp\KillerApp\bin\Debug\KillerApp.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\KillerApp\KillerApp\bin\Debug\KillerApp.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\KillerApp\KillerApp\bin\Debug\KillerApp.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\KillerApp\KillerApp\obj\Debug\KillerApp.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\KillerApp\KillerApp\obj\Debug\KillerApp.KillerApp.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\KillerApp\KillerApp\obj\Debug\KillerApp.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\KillerApp\KillerApp\obj\Debug\KillerApp.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\KillerApp\KillerApp\obj\Debug\KillerApp.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\KillerApp\KillerApp\obj\Debug\KillerApp.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\KillerApp\KillerApp\bin\Debug\KillerAppDB.mdf
+\\Mac\Home\Documents\Visual Studio 2015\Projects\KillerApp\KillerApp\bin\Debug\KillerAppDB_log.ldf
